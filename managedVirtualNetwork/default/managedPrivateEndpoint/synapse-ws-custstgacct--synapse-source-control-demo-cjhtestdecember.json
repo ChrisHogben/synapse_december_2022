@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--synapse-source-control-demo-cjhtestdecember",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/a8c2e44f-1cd3-4081-b1d3-e2e7a289852b/resourceGroups/source_control_rg/providers/Microsoft.Storage/storageAccounts/cjhtestdecember",
+		"groupId": "dfs"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--synapse-source-control-demo",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/a8c2e44f-1cd3-4081-b1d3-e2e7a289852b/resourceGroups/source_control_rg/providers/Microsoft.Synapse/workspaces/synapse-source-control-demo",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"synapse-source-control-demo-ondemand.c4ce2625-dfa7-4b6a-bc57-fa12e439d102.sql.azuresynapse.net"
+		]
+	}
+}
