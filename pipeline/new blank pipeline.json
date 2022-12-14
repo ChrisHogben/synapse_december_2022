@@ -1,0 +1,17 @@
+{
+	"name": "new blank pipeline",
+	"properties": {
+		"description": "pretty much blank, just to see progress with the source control",
+		"variables": {
+			"foo": {
+				"type": "String",
+				"defaultValue": "1"
+			},
+			"buzz": {
+				"type": "String",
+				"defaultValue": "0"
+			}
+		},
+		"annotations": []
+	}
+}
