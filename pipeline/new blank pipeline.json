@@ -2,6 +2,19 @@
 	"name": "new blank pipeline",
 	"properties": {
 		"description": "pretty much blank, just to see progress with the source control",
+		"activities": [
+			{
+				"name": "change value of foo",
+				"description": "pipeline needs at least one activity...",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "foo",
+					"value": "new value!"
+				}
+			}
+		],
 		"variables": {
 			"foo": {
 				"type": "String",
